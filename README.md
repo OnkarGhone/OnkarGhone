@@ -8,7 +8,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I'm a also good at soldering.  
+- ⚡ Fun fact: I'm good at soldering too.  
   
 
 <br/>  
